@@ -1,7 +1,8 @@
 # openlaw
 
-เวลาที่ใช้ mouse คลิกนานๆ ก็มีอาการ office syndrome นิ้วชา ก็เลยทำอันนี้ขึ้นมา เป็นการเปิดเอกสารโดยใช้แค่ keyboard 
+**** เวลาที่ใช้ mouse คลิกนานๆ ก็มีอาการ office syndrome นิ้วชา ก็เลยทำอันนี้ขึ้นมา เป็นการเปิดเอกสารโดยใช้แค่ keyboard ***
 
+**** Dowload ไฟล์ law.rar แล้วแตกไฟล์ไปไว้ใน C:\Users\เรา\ ก่อนนะ เช่น C:\Users\krai\law> เป็นต้น ***
 
 1.ติดตั้งภาษา Python เพื่อให้สามารถเปิดไฟล์ open.py ได้
 https://www.mindphp.com/%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/83-python/4876-installpython.html
